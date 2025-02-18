@@ -2,8 +2,8 @@
 
 **Project Description:**
 This project involves the design and implementation of a detection system that alerts the user when a specific obstacle is detected. The system allows the user to aim at the target using a joystick, and once the target is detected, the system locks onto it, disables further aiming adjustments, and alerts the user with an audible alarm. The system is designed to simulate an "Aim Assist" mechanism for attacking jets, where the rifle locks onto an enemy target and assists the pilot in maintaining the aim for accurate shooting.
-<br>
 
+<br>
 
 <br>
 
