@@ -9,17 +9,17 @@ This repository contains the lab and project codes for the Microcontrollers and 
 <br>
 
 ## Personal Course Project - AutoScope
-This project involves the design and implementation of a detection system that alerts the user when a specific obstacle is detected. The system allows the user to aim at the target using a joystick, and once the target is detected, the system locks onto it, disables further aiming adjustments, and alerts the user with an audible alarm. The system is designed to simulate an "Aim Assist" mechanism for attacking jets, where the rifle locks onto an enemy target and assists the pilot in maintaining the aim for accurate shooting.
+This project involves the design and implementation of a detection system based on FRDM-KL25Z (ARM Cortex-M0+) that alerts the user when a specific obstacle is detected. The system allows the user to aim at the target using a joystick, and once the target is detected, the system locks onto it, disables further aiming adjustments, and alerts the user with an audible alarm. The system is designed to simulate an "Aim Assist" mechanism for attacking jets, where the rifle locks onto an enemy target and assists the pilot in maintaining the aim for accurate shooting.
 <br>
 <br>
 
-## Lab 1 - Hexadecimal Digit Sum and Day-of-Year Calculation
-This lab has two parts. In Part 1, students write a program to convert a hexadecimal number to decimal and sum its digits, showing results on the MCU 8051 IDE simulator. In Part 2, students determine the month, day, and weekday for a given day-of-year input (1-366) using Proteus, displaying results on an LCD. Both parts emphasize simulation and correct output display.
+## Lab 1 - Base Conversion and Fibonacci Computation on 8051 Microcontroller
+This lab involves programming an 8051 microcontroller to perform base conversions and Fibonacci sequence calculations using the Proteus simulator. The first part implements a decimal-to-binary, base-4, and base-8 converter, displaying results on an LCD. The second part calculates the nth Fibonacci number (0 ≤ n ≤ 24) recursively without lookup tables, handling multi-register storage for larger values. The project demonstrates proficiency in embedded systems programming, microcontroller arithmetic, and LCD interfacing, reinforcing low-level programming and register management skills.
 <br>
 <br>
 
-## Lab 2: - Timer-Based Waveform Generation and Countdown System
-This lab focuses on using 8051 microcontroller timers. In Part 1, students generate two square waveforms with specific frequencies and duty cycles based on a switch configuration, displaying results on a Proteus oscilloscope. In Part 2, a countdown system is implemented, taking input from a keypad and displaying the countdown on an LCD, updating every 0.5 seconds. Both parts emphasize precision and correct use of timers.
+## Lab 2: - Square Wave Generation and Dynamic Duty Cycle Control
+This lab focuses on generating square waveforms using microcontroller timers. In Part 1, a primary waveform is produced with a specified duty cycle and frequency, while a secondary waveform maintains half the duty cycle. In Part 2, the system dynamically alternates duty cycles at fixed intervals, displaying frequency and duty cycle values on an LCD. The experiment reinforces precise timer usage, waveform control, and real-time display integration. A below 1% error rate was achieved without using interrupts.
 <br>
 <br>
 
