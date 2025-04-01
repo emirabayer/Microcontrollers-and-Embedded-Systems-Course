@@ -1,1 +1,0 @@
-This lab has two parts. In Part 1, students write a program to convert a hexadecimal number to decimal and sum its digits, showing results on the MCU 8051 IDE simulator. In Part 2, students determine the month, day, and weekday for a given day-of-year input (1-366) using Proteus, displaying results on an LCD. Both parts emphasize simulation and correct output display.
