@@ -23,8 +23,8 @@ This lab focuses on generating square waveforms using microcontroller timers. In
 <br>
 <br>
 
-## Lab 3 - 4-Bit Binary Counter with Adjustable Rate and Direction
-This lab involves implementing a 4-bit binary counter using switches to control counting rate and direction. Switches adjust the counting rate (0ms, 250ms, 500ms, 1000ms) and toggle between increasing and decreasing order. LEDs represent the 4-bit counter. Students must ensure real-time switch configuration changes without resetting the counter, using a custom delay function instead of timers. Partial credit is available for incomplete implementations.
+## Lab 3 - Ping-Pong LED Game on FRDM-KL25Z Board
+This lab involves implementing a ping-pong style LED game on the FRDM-KL25Z board, controlling five LEDs with three buttons to create dynamic lighting effects. The project includes a single-ball mode with a bouncing LED pattern, speed toggling (1000 ms to 500 ms), direction reversal, and a two-ball mode with adjacent LED pairs, all managed through GPIO configurations without timers. The implementation showcases proficiency in embedded systems programming, real-time input handling, and state management, demonstrating a strong understanding of hardware interfacing and efficient code design.
 <br>
 <br>
 
